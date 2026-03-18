@@ -1,0 +1,18 @@
+# Build artifacts
+/target
+
+# Documentation
+guia_entrevista_rust.md
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Debug files
+*.pdb
